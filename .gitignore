@@ -6,3 +6,4 @@ models
 *.p
 *.zip
 checkpoints/
+traffic-signs-data/
