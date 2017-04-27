@@ -22,7 +22,10 @@ Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/4
 The submission includes the following materials: 
 - [x] A runnable iPython notebook contains details of my implementation, simply referenced as notebook in below;
 - [x] A report, the "Traffic Sign Recognition.md";
+- [x] A HTML file which records the notebook result. 
 - [x] A folder named "img4report" containing the images needed by the report;
+- [x] A folder named "test-images" containing the images collected from the web;
+ 
 
 ### Data Set Summary & Exploration
 
